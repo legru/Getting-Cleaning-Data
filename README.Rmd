@@ -1,0 +1,6 @@
+
+This  Repo  contains:
+
+1. run_analysis: the script  used for the derivation
+2. codeBook: The code book reporting on the data
+3. data_q5.txt:  Tidy data requested in q5 printed  as requested
